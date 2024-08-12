@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 export default function Home() {
   return (
     <main className="px-4">
-      <section className="my-4 fles flex-col gap-2">
+      <section className="my-4 flex flex-col gap-2">
         <h1 className="text-3xl font-bold ">
           Comida <span className="text-primary font-extrabold">deliciosa</span>,
           <br />
