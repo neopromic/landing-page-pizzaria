@@ -9,7 +9,7 @@ export default function Home() {
           <br />
           <span className="text-primary font-extrabold">Vida</span> deliciosa.
         </h1>
-        <Button variant={"outline"} className="border-primary max-w-fit">
+        <Button variant={"outline"} className="border-primary w-fit max-w-fit">
           Saiba mais
         </Button>
       </section>
